@@ -11,4 +11,6 @@
 
 @interface Target_LXGoodsDetail : NSObject
 
+- (UIViewController *)Action_GoodsDetailViewController:(NSDictionary *)params;
+
 @end

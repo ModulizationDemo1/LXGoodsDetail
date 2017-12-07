@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "LXGoodsDetail"             #名称
-s.version      = "0.0.1"                     #版本号
+s.version      = "0.0.2"                     #版本号
 s.summary      = "test"                      #简短介绍
 s.description  = <<-DESC
 私有Pods测试
